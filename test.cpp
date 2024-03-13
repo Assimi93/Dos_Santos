@@ -14,7 +14,7 @@ using namespace std;
         
 
 int main() {
-    cout << "Hello Nigg*!" << endl;
+    cout << "OOH OUII!!! GOOD JOB" << endl;
     return 0;
     }
     
