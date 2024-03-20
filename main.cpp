@@ -15,6 +15,7 @@ using namespace std;
 
 int main() {
     int x= 10;
+    printf("hello world %d, %d",x,x);
     return 0;
     }
     
